@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "piven", "piven\piven.csproj", "{C8709E5A-EE3C-41BB-9F83-4F4E2AF85689}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{7DA30A2E-4FD8-439E-969F-3801A947949A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8709E5A-EE3C-41BB-9F83-4F4E2AF85689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8709E5A-EE3C-41BB-9F83-4F4E2AF85689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8709E5A-EE3C-41BB-9F83-4F4E2AF85689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8709E5A-EE3C-41BB-9F83-4F4E2AF85689}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DA30A2E-4FD8-439E-969F-3801A947949A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA30A2E-4FD8-439E-969F-3801A947949A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA30A2E-4FD8-439E-969F-3801A947949A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA30A2E-4FD8-439E-969F-3801A947949A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FE31923-277B-4650-AC60-6520A663B59B}
+	EndGlobalSection
+EndGlobal
